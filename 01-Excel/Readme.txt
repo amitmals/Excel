@@ -1,9 +1,11 @@
 Hello TA
 
-3 Files are uploaded.
+2 Files are uploaded.
 
   1. StarterBook_Amit Malik.xlsx
-     Is the excel file that has all the formating/charts/Bonus work comepleted
+     Excel: Formating/charts/Bonus work comepleted
+  2. Analysis-Amit Malik.docx
+     Word document: Report for data analysis
 
 Kind regards,
 Amit Malik
