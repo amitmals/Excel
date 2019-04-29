@@ -1,4 +1,4 @@
-Kickstarter Data Analysis
+Kickstarter Crowd Sourcing Data Analysis
 
 Highlights
 •	59% of campaigns on Kickstarter are successful.
