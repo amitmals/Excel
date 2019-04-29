@@ -10,7 +10,7 @@
 ### Key Conclusions
 1.	Campaigns with lower goals tend to be more successful
 The natural trend seen is that lower goals tend to be more successful. A regression analysis shows a good co-relation between the Goal amount and the success rate
-<img width="800" alt="image" src="https://user-images.githubusercontent.com/46534353/56934042-57fc2f00-6a9f-11e9-8056-397fb0439437.png">
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/46534353/56934042-57fc2f00-6a9f-11e9-8056-397fb0439437.png">
  
 2.	Music/Theatre are the most successful category
 Music is the most successful category (82%), followed by Theatre, Film & Video and Technology and together account for 78% of all the campaigns on Kickstarter. With 1066 projects, Plays are the highest sub-category and have >50% success. Techology sees the highest average donation. Graph below show the Average donation amount per category and the # of funded projects
